@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'communities';
+  tagSample = {
+    name: 'Test',
+    description: 'Lorem ipsum'
+  }
 }
